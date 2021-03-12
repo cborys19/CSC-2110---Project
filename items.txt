@@ -1,0 +1,15 @@
+001 Fantasy in book Martin
+002 Romance in book Roberts
+003 Horror in book King
+004 Biography in book Douglass
+005 Plays in book Shakespeare
+006 Medical in journal 35
+007 Education in journal 98
+008 Dentistry in journal 64
+009 Sociology in journal 13
+010 Biology in journal 47
+011 GQ in magazine 593
+012 Vogue in magazine 376
+013 Time in magazine 1019
+014 Life in magazine 462
+015 People in magazine 1234
